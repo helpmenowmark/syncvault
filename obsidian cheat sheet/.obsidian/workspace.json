@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "a2ac1677de764f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18c09d3095d243e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4704e05d6f0dca89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian MOC.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aadf69ae921aab0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian MOC.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b9d02d02a528b30a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Tips/Edit and reading view in Separate pains.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1114eaf8bf263b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Links.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "44be01b8e8e04015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Tips/Edit and reading view in Separate pains.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "10dece24ff6dc182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Tips/Outlining with obsidian nick milo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cd01d19b429700d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Block References.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "2745ff5ad6960902"
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "4a32672015062f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92be6948abd716a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Block References.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "2745ff5ad6960902"
+          }
+        ]
+      },
+      {
+        "id": "036377f22a415920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082ec3517932fe50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Block References.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "2745ff5ad6960902"
+          },
+          {
+            "id": "1ecfb9caee7d1602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62f6d564b83f50f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6887952286cf45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8f3e6ccdf8fb11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d109f6799258aed1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2a9dc7907ae6bef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad429462bc357fac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f360e52a3ead4385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8976f2b1a1a2f324",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Block References.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62106dc1cc135d03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Block References.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccbff1c125cb09a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "775fca6c961076d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Syntax/Obsidian Block References.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "cd01d19b429700d1",
+  "lastOpenFiles": [
+    "Reference Index.md",
+    "Obsidian Syntax/Obsidian Block References.md",
+    "Obsidian Syntax/Obisidian Code Blocks.md",
+    "Obsidian Syntax/Obsidian Tables.md",
+    "Obsidian Practice - can delete/Kanban Sample.md",
+    "111222333.md",
+    "Untitled 7.md",
+    "Obsidian Tips/Outlining with obsidian nick milo.md",
+    "Obsidian Tips/Edit and reading view in Separate pains.md",
+    "foldng.md"
+  ]
+}

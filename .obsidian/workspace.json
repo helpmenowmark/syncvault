@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3d3d481bb600b8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab7a882bde99fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8921ff10badba9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Published/Cellphone stand.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aa8cb7b1eaa8f03",
+    "type": "split",
+    "children": [
+      {
+        "id": "9222d7898de2bdd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56a107bd948513e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "028917dbc92d2fff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:(aaa) ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b74fcd4c183c39b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "right": {
+    "id": "6189e9b719ace9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7650065bd0a9cf3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2ed9ae8e906b68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Published/Cellphone stand.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d54a9a055971689",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Published/Cellphone stand.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d10f1b794eee66ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c128eb5106ae045",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Published/Cellphone stand.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "8921ff10badba9be",
+  "lastOpenFiles": [
+    "Published/Cellphone stand.md",
+    "Welcome.md",
+    "Welcome2.md",
+    "attachments/abc.png",
+    "aa mocs/Moc Home.md",
+    "notes/notessubfolder/newnote.md",
+    "generals/Mortar and Pestle.md",
+    "notes/sound sensory sensitivity.md",
+    "posts/posts 333.md",
+    "generals/now is the time.md"
+  ]
+}
