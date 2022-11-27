@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newest note.md",
+                "file": "attachments/newest note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newest note.md",
+                "file": "attachments/newest note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newest note.md",
+                "file": "attachments/newest note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newest note.md"
+                "file": "attachments/newest note.md"
               }
             }
           }
@@ -151,7 +151,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "aa2794a3e8bd52f6",
+  "active": "b56a107bd948513e",
   "lastOpenFiles": [
     "attachments/new note.md",
     "attachments/Untitled 1.md",
