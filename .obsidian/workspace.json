@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa2794a3e8bd52f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newest note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/new note.md",
+                "file": "newest note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/new note.md",
+                "file": "newest note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/new note.md"
+                "file": "newest note.md"
               }
             }
           }
@@ -137,8 +151,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bbfaa1fc4fb8ee55",
+  "active": "aa2794a3e8bd52f6",
   "lastOpenFiles": [
+    "attachments/new note.md",
     "attachments/Untitled 1.md",
     "test page.md",
     "fadssdf.md",
@@ -147,7 +162,6 @@
     "Welcome2.md",
     "attachments/abc.png",
     "aa mocs/Moc Home.md",
-    "notes/notessubfolder/newnote.md",
-    "generals/Mortar and Pestle.md"
+    "notes/notessubfolder/newnote.md"
   ]
 }
